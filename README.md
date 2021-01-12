@@ -1,7 +1,7 @@
 0.3的線比較多
 惡意程式之間的相似度越高
 ![image](https://github.com/Lulu3321/homework/blob/main/0.3.jpg)
-0.8的線比較多
+0.8的線比較少
 惡意程式之間的相似度越低
 ![image](https://github.com/Lulu3321/homework/blob/main/0.8.jpg)
 
